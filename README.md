@@ -1,2 +1,0 @@
-# gofood
-Just another repository
